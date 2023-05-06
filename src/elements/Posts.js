@@ -7,7 +7,7 @@ const dadosPost = [
         conteudo:'assets/img/gato-telefone.svg',
         likeImg:'assets/img/respondeai.svg',
         likeUser:'respondeai',
-        likeOthers:'101.523'
+        likeOthers:101523
     },
     {
         headName:'barked',
@@ -15,7 +15,7 @@ const dadosPost = [
         conteudo:'assets/img/dog.svg',
         likeImg:'assets/img/adorable_animals.svg',
         likeUser:'adorable_animals',
-        likeOthers:'99.159'
+        likeOthers:99159
     },
     {
         headName:'loveBirds',
@@ -23,7 +23,7 @@ const dadosPost = [
         conteudo:'https://t0.gstatic.com/licensed-image?q=tbn:ANd9GcQaWJmFzNCH8t-Pe3QKTma7tysUqAdtNWy7Gl3sIu27U3s7aONdEgr9ICjdAzQd1Nye',
         likeImg:'https://upload.wikimedia.org/wikipedia/commons/a/a8/Iber%C3%AA_Then%C3%B3rio_2016_%28cropped%29.png',
         likeUser:'iberê',
-        likeOthers:'200.000'
+        likeOthers:200000
     }
 
 ]
