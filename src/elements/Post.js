@@ -51,7 +51,7 @@ export default function Post(props){
         </div>
 
         <div class="conteudo">
-            <img data-test="post-image" onClick={likeClickImagem} src={props.conteudo} alt="gato-telefone"/>
+            <img data-test="post-image" onDoubleClick={likeClickImagem} src={props.conteudo} alt="gato-telefone"/>
         </div>
 
         <div class="fundo">
